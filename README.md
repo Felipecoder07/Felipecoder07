@@ -2,7 +2,7 @@
 
 Estudante de Engenharia de Software (7º semestre) na UFC Russas e formado como Técnico em Informática pelo IFPI.
 
-Construo aplicações web completas para resolver problemas práticos do dia a dia — desde o entendimento do problema e desenho da interface até a implementação de APIs, bancos de dados e regras de negócio. Utilizo agentes de IA (Claude Code, Codex, Gemini) como multiplicadores de produtividade para acelerar código, refatoração e testes, mantendo o controle total da arquitetura e das regras dos sistemas.
+Desenvolvo aplicações focadas em resolver problemas práticos — atuando desde o levantamento de requisitos e criação da interface até a arquitetura de APIs, modelagem de dados e deploy. Trabalho integrando ferramentas de inteligência artificial no fluxo de desenvolvimento para ganhar agilidade na escrita de código, refatoração e testes, mantendo sempre o controle sobre as regras de negócio e a qualidade da entrega.
 
 ---
 
