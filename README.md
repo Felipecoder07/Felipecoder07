@@ -1,33 +1,41 @@
-# Olá, sou o Felipe 👋
+# Luiz Felipe Verissimo
 
-Estudante de **Engenharia de Software (7º semestre)** na **Universidade Federal do Ceará (Campus Russas)**. Minha rotina é transformar problemas reais em aplicações completas de ponta a ponta — do levantamento de requisitos e prototipação até a arquitetura de APIs, banco de dados e testes.
+Estudante de Engenharia de Software (7º semestre) na UFC Russas e formado como Técnico em Informática pelo IFPI.
 
-Uso **agentes de IA e LLMs (Claude Code, Codex, Gemini)** de forma estratégica para acelerar o desenvolvimento de software, automações e prototipação rápida.
-
----
-
-### 🚀 Principais Projetos em Destaque
-
-* 🏟️ **[Arenix](https://github.com/Felipecoder07/Arenix)**: Plataforma SaaS Full Stack multi-tenant para gestão de arenas esportivas, com checkout via Pix e webhooks integrados ao Mercado Pago. *(React, TypeScript, Node.js, SQLite)*
-* 📍 **[Mapa do Calouro](https://github.com/Felipecoder07/mapa-calouro)**: Guia cartográfico e rotas urbanas via OSRM para o campus e cidade de Russas/CE. *(React, TypeScript, Leaflet, Supabase/PostgreSQL)* • **[Ver Demo ao Vivo ↗](https://mapa-calouro-ufc.vercel.app/)**
-* 🦷 **[OrtoBase](https://github.com/Felipecoder07/ortobase-saas)**: SaaS multi-tenant para clínicas odontológicas com prontuário visual por face dentária e assinatura mobile de orçamentos via QR Code. *(React, TypeScript, Node.js, Prisma, PostgreSQL, Docker)*
-* 🔍 **[SIAP · Achados e Perdidos](https://github.com/Felipecoder07/Achados-Perdidos-UFC)**: Sistema web com mural público, integração com a Portaria da UFC e especificação formal de requisitos (SRS/UML). *(Node.js, Express, SQLite)*
-* 🍔 **[Gerenciamento de Lanchonete](https://github.com/Felipecoder07/Gerenciamento-de-Lanchonete)**: API RESTful com arquitetura em camadas para fila da cozinha com máquina de estados. *(Python, FastAPI, SQLAlchemy, PostgreSQL)*
-* 🏆 **[Gamificação PET](https://github.com/Felipecoder07/gameficacao-pet)**: Protótipo de gestão de entregas e regras de validação cruzada para o grupo PET. *(Next.js, TypeScript, Drizzle ORM, Cloudflare D1/R2)*
+Construo aplicações web completas para resolver problemas práticos do dia a dia — desde o entendimento do problema e desenho da interface até a implementação de APIs, bancos de dados e regras de negócio. Utilizo agentes de IA (Claude Code, Codex, Gemini) como multiplicadores de produtividade para acelerar código, refatoração e testes, mantendo o controle total da arquitetura e das regras dos sistemas.
 
 ---
 
-### 🛠️ Arsenal Tecnológico
+### O que ando construindo
 
-* **Linguagens:** TypeScript, Python, JavaScript (ES6+), SQL (PostgreSQL, SQLite)
-* **Backend & APIs:** Node.js, Express, FastAPI, RESTful APIs, Pydantic, Prisma ORM, SQLAlchemy
-* **Frontend:** React, Next.js, Tailwind CSS, Leaflet
-* **Engenharia & IA:** Engenharia de Requisitos (SRS, Casos de Uso, UML), Testes (Vitest, Playwright), Docker, Git/GitHub, Agentes de IA & Engenharia de Prompt *(em estudo: RAG & integração com LLMs)*
+- **[Arenix](https://github.com/Felipecoder07/Arenix)**: Plataforma SaaS multi-tenant para gestão de arenas esportivas, com agendamento de quadras, conciliação e checkout via Pix integrado ao Mercado Pago.  
+  *Stack: React, TypeScript, Node.js, Express, SQLite*
+
+- **[Mapa do Calouro](https://github.com/Felipecoder07/mapa-calouro)**: Guia interativo da cidade e do campus da UFC Russas com rotas urbanas via OSRM, avaliações e painel administrativo.  
+  *Stack: React, TypeScript, Leaflet, Supabase (PostgreSQL), OSRM* — [Testar aplicação ao vivo](https://mapa-calouro-ufc.vercel.app/)
+
+- **[OrtoBase](https://github.com/Felipecoder07/ortobase-saas)**: SaaS para clínicas odontológicas com agenda, prontuário eletrônico com odontograma por face dentária e assinatura de orçamentos no celular via QR Code.  
+  *Stack: React, TypeScript, Node.js, Prisma, PostgreSQL, Docker*
+
+- **[SIAP · Achados e Perdidos](https://github.com/Felipecoder07/Achados-Perdidos-UFC)**: Sistema acadêmico com mural público e painel para controle de guarda e devolução de itens na Portaria da UFC, acompanhado de documentação SRS e modelagem UML/DER.  
+  *Stack: Node.js, Express, SQLite, JavaScript*
+
+- **[Gerenciamento de Lanchonete](https://github.com/Felipecoder07/Gerenciamento-de-Lanchonete)**: API RESTful para automação de pedidos e fila da cozinha com máquina de estados.  
+  *Stack: Python, FastAPI, SQLAlchemy, Pydantic, PostgreSQL*
 
 ---
 
-### 🌐 Vamos conversar?
+### Stack principal
 
-* 💼 **LinkedIn:** [linkedin.com/in/luiz-felipe-verissimo-a03142274](https://www.linkedin.com/in/luiz-felipe-verissimo-a03142274)
-* ✉️ **E-mail:** [felipeverissimo2510@gmail.com](mailto:felipeverissimo2510@gmail.com)
-* 📸 **Instagram:** [@felp_vrs](https://www.instagram.com/felp_vrs/)
+- **Linguagens:** TypeScript, Python, JavaScript, SQL
+- **Backend:** Node.js, Express, FastAPI, PostgreSQL, SQLite, Supabase
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Engenharia:** Engenharia de Requisitos, Docker, Git, Testes automatizados (Vitest, Playwright)
+
+---
+
+### Contato
+
+- **LinkedIn:** [luiz-felipe-verissimo-a03142274](https://www.linkedin.com/in/luiz-felipe-verissimo-a03142274)
+- **E-mail:** [felipeverissimo2510@gmail.com](mailto:felipeverissimo2510@gmail.com)
+- **Instagram:** [@felp_vrs](https://www.instagram.com/felp_vrs/)
